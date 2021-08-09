@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+    <item name="materialCardViewStyle" value="Widget.MaterialComponents.CardView"/>
+    <item name="textInputStyle" value="Base.Widget.MaterialComponents.TextInputLayout"/>
+</style>
+
+
+</resources>
